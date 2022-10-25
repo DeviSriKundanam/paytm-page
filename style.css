@@ -60,5 +60,74 @@
 .icons i{
 	margin-left: 4%;
 }
-
-
+.sec3{
+	background-color: #00bbf2;
+	padding: 5%;
+	font-family: 'Poppins', sans-serif;
+}
+.sec3 h1{
+	color: white;
+	font-size: 40px;
+	margin-bottom: 5%;
+}
+.sec3div{
+	display: flex;
+	justify-content: space-between;
+}
+.sec3div a{
+	text-decoration: none;
+	color: black;
+}
+.sec3 a:hover{
+	background-color: #00adf2;
+	border-radius: 15px;
+}
+.sec3div p{
+	color: white;
+}
+.sec3div img{
+	margin-bottom: 10%;
+}
+.sec4{
+	background-color: #043E7D;
+	padding: 5%;
+	font-family: 'Poppins', sans-serif;
+}
+.sec4 h1{
+	font-size: 40px;
+	color: white;
+	margin-bottom: 5%;
+}
+.sec4 a:hover{
+	background-color: #02386e;
+	border-radius: 15px;
+} 
+.sec5{
+	font-size: 30px;
+	background-color: rgba(239, 239, 239, 0.6);
+	font-family: 'Poppins', sans-serif;
+	margin-top: 7%;
+	padding: 7%;
+}	
+.sec5div1{
+	background-color: white;
+	display: flex;
+	justify-content: space-between;
+	padding: 6%;
+	border-radius: 10px;
+	margin-top: 3%;
+}
+.div1 h1{
+	font-size: 32px;
+	margin-bottom: 5%;
+}
+.div1 p{
+	font-size: 17px;
+}
+.downloadapp{
+	width: 50%;
+}
+.walletlogo{
+	display: flex;
+	margin-bottom: 6%;
+}

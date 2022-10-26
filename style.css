@@ -173,7 +173,7 @@
 	color: white;
 	background-color: #02386e;
 	border-radius: 25px;
-	padding: 2%;
+	padding: 2% 7% 2% 7%;
 }
 .div3 a:hover{
 	background-color:  #00bbf2;
@@ -251,8 +251,7 @@
 	text-decoration: none;
 	color: white;
 	border-radius: 25px;
-	width: 35%;
-	padding: 2%;
+	padding: 2% 7% 2% 7%;
 }
 .div61 a:hover{
 	background-color: #00adf2;

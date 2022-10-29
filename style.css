@@ -397,3 +397,253 @@
 	color: black;
 	font-weight: bold;
 }
+.sec12{
+	background-color: white;
+	font-family: 'Poppins', sans-serif;
+	margin-top: 15% 4% 7% 5%;
+}
+.sec12div{
+	display: flex;
+	justify-content: space-between;
+	padding: 8%;
+}
+.sec12div1 p{
+	font-size: 15px;
+	margin-top: 10%;
+	margin-bottom: 3%;
+}
+.sec12div1 a{
+	text-decoration: none;
+	color: #00bbf2;
+}
+.sec12div1 a:hover{
+	color: black;
+}
+.sec12div2{
+	background-color: skyblue;
+	text-decoration: none;
+	margin-left: 1%;
+	margin-right: 1%;
+	text-align: center;
+	border-radius: 10px;
+}
+.sec12div2:hover{
+	background-color: #00bbf2;
+}
+.sec12div2 p{
+	color: white;
+	margin-top: 2%;
+}
+.sec12div2 img{
+	margin-top: 3%;
+}
+.sec13{
+	background-color: white;
+	font-family: 'Poppins', sans-serif;
+	margin-top: 15% 4% 7% 5%;
+}
+.sec13div{
+	display: flex;
+	justify-content: space-between;
+	padding: 8%;
+}
+.sec13div1 p{
+	font-size: 15px;
+	margin-top: 10%;
+	margin-bottom: 3%;
+}
+.sec13div1 a{
+	text-decoration: none;
+	color: #00bbf2;
+}
+.sec13div1 a:hover{
+	color: black;
+}
+.sec13div2{
+	background-color: skyblue;
+	text-decoration: none;
+	margin-left: 1%;
+	margin-right: 1%;
+	text-align: center;
+	border-radius: 10px;
+}
+.sec13div2:hover{
+	background-color: #00bbf2;
+}
+.sec13div2 img{
+	margin-top: 7%;
+}
+.sec13p1{
+	font-weight: bold;
+	font-size: 15px;
+	color: white;
+	margin-top: 5%;
+}
+.sec13p2{
+	margin-top: 3%;
+	font-size: 11px;
+	font-weight: bold;
+	color: white;
+}
+
+
+
+
+
+
+@media (max-width: 390px){
+	.navbar a{
+		font-size: 5px;
+	}
+	#signin img{
+		width: 1%;
+	}
+	.text{
+		font-size: 7px;
+	}
+	.heading2{
+		font-size: 15px;
+	}
+	.recharge{
+		font-size: 8px;
+	}
+	.downloadapp{
+		font-size: 7px;
+	}
+	.sec3 h1{
+		font-size: 17px;
+	}
+	.sec3div{
+		flex-direction: column;
+		align-items: center;
+	}
+	.sec3div a{
+		font-size: 12px;
+		text-align: center;
+	}
+	.sec4 h1{
+		font-size: 17px;
+	}
+	.sec4div{
+		flex-direction: column;
+		align-items: center;
+	}
+	.sec4div a{
+		font-size: 12px;
+		text-align: center;
+	}
+	.sec5 h1{
+		font-size: 18px;
+	}
+	.div1 h1{
+		font-size: 13px;
+	}
+	.div1 p{
+		font-size: 5px;
+	} 
+	.logo{
+		font-size: 9px;
+	}
+	#sec5download{
+		font-size: 7px;
+		width: 80%;
+	}
+	#sec51download{
+		font-size: 7px;
+		width: 100%;
+	}
+	.div3 h1{
+		font-size: 13px;
+	}
+	.div3 p{
+		font-size: 5px;
+	}
+	.div3 a{
+		font-size: 7px;
+	}
+	.div41 h1{
+		font-size: 11px;
+	}
+	.div41 p{
+		font-size: 5px;
+	}
+	.div42 h1{
+		font-size: 11px;
+	}
+	.div42 p{
+		font-size: 5px;
+	}
+	.sec6 h1{
+		font-size: 18px;
+	}
+	.bank{
+		font-size: 10px;
+	}
+	.div61 p{
+		font-size: 7px;
+	}
+	.div61 a{
+		font-size: 7px;
+	}
+	.div71 h1{
+		font-size: 17px;
+	}
+	.div71 p{
+		font-size: 7px;
+	}
+	.div71 a{
+		font-size: 7px;
+	}
+	.div81 h1{
+		font-size: 18px;
+	}
+	.div81 p{
+		font-size: 7px;
+	}
+	.div81 a{
+		font-size: 7px;
+	}
+	.div91 h1{
+		font-size: 18px;
+	}
+	.div91 p{
+		font-size: 7px;
+	}
+	.div91 a{
+		font-size: 7px;
+	}
+	.sec10 h1{
+		font-size: 20px;
+	}
+	.div101 h1{
+		font-size: 16px;
+	}
+	.div101 p{
+		font-size: 6px;
+	}
+	.div101 a{
+		font-size: 6px;
+	}
+	.sec11 h1{
+		font-size: 20px;
+	}
+	.sec11div {
+		flex-direction: column;
+		align-items: center;
+	}
+	.sec11div1 h1{
+		font-size: 16px;
+	}
+	.sec11div1 p{
+		font-size: 8px;
+	}
+	.sec11div1 a{
+		font-size: 8px;
+	}
+	.sec12div1 p{
+		font-size: 10px;
+	}
+	.sec13div1 a{
+		font-size: 5px;
+	}
+}

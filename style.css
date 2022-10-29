@@ -493,157 +493,157 @@
 
 @media (max-width: 390px){
 	.navbar a{
-		font-size: 5px;
+		font-size: 2px;
 	}
 	#signin img{
 		width: 1%;
 	}
 	.text{
-		font-size: 7px;
+		font-size: 4px;
 	}
 	.heading2{
-		font-size: 15px;
+		font-size: 10px;
 	}
 	.recharge{
-		font-size: 8px;
+		font-size: 4px;
 	}
 	.downloadapp{
-		font-size: 7px;
+		font-size: 2px;
 	}
 	.sec3 h1{
-		font-size: 17px;
+		font-size: 13px;
 	}
 	.sec3div{
 		flex-direction: column;
 		align-items: center;
 	}
 	.sec3div a{
-		font-size: 12px;
+		font-size: 8px;
 		text-align: center;
 	}
 	.sec4 h1{
-		font-size: 17px;
+		font-size: 13px;
 	}
 	.sec4div{
 		flex-direction: column;
 		align-items: center;
 	}
 	.sec4div a{
-		font-size: 12px;
+		font-size: 8px;
 		text-align: center;
 	}
 	.sec5 h1{
-		font-size: 18px;
-	}
-	.div1 h1{
 		font-size: 13px;
 	}
-	.div1 p{
-		font-size: 5px;
-	} 
-	.logo{
+	.div1 h1{
 		font-size: 9px;
 	}
+	.div1 p{
+		font-size: 2px;
+	} 
+	.logo{
+		font-size: 5px;
+	}
 	#sec5download{
-		font-size: 7px;
+		font-size: 4px;
 		width: 80%;
 	}
 	#sec51download{
-		font-size: 7px;
+		font-size: 4px;
 		width: 100%;
 	}
 	.div3 h1{
-		font-size: 13px;
+		font-size: 8px;
 	}
 	.div3 p{
-		font-size: 5px;
+		font-size: 2px;
 	}
 	.div3 a{
-		font-size: 7px;
+		font-size: 2px;
 	}
 	.div41 h1{
-		font-size: 11px;
+		font-size: 18px;
 	}
 	.div41 p{
-		font-size: 5px;
+		font-size: 2px;
 	}
 	.div42 h1{
-		font-size: 11px;
+		font-size: 8px;
 	}
 	.div42 p{
-		font-size: 5px;
+		font-size: 2px;
 	}
 	.sec6 h1{
-		font-size: 18px;
-	}
-	.bank{
 		font-size: 10px;
 	}
-	.div61 p{
+	.bank{
 		font-size: 7px;
+	}
+	.div61 p{
+		font-size: 3px;
 	}
 	.div61 a{
-		font-size: 7px;
+		font-size: 3px;
 	}
 	.div71 h1{
-		font-size: 17px;
+		font-size: 10px;
 	}
 	.div71 p{
-		font-size: 7px;
+		font-size: 4px;
 	}
 	.div71 a{
-		font-size: 7px;
+		font-size: 4px;
 	}
 	.div81 h1{
-		font-size: 18px;
+		font-size: 10px;
 	}
 	.div81 p{
-		font-size: 7px;
+		font-size: 4px;
 	}
 	.div81 a{
-		font-size: 7px;
+		font-size: 4px;
 	}
 	.div91 h1{
-		font-size: 18px;
+		font-size: 10px;
 	}
 	.div91 p{
-		font-size: 7px;
+		font-size: 4px;
 	}
 	.div91 a{
-		font-size: 7px;
+		font-size: 4px;
 	}
 	.sec10 h1{
-		font-size: 20px;
+		font-size: 15px;
 	}
 	.div101 h1{
-		font-size: 16px;
+		font-size: 9px;
 	}
 	.div101 p{
-		font-size: 6px;
+		font-size: 2px;
 	}
 	.div101 a{
-		font-size: 6px;
+		font-size: 2px;
 	}
 	.sec11 h1{
-		font-size: 20px;
+		font-size: 15px;
 	}
 	.sec11div {
 		flex-direction: column;
 		align-items: center;
 	}
 	.sec11div1 h1{
-		font-size: 16px;
+		font-size: 9px;
 	}
 	.sec11div1 p{
-		font-size: 8px;
+		font-size: 3px;
 	}
 	.sec11div1 a{
-		font-size: 8px;
+		font-size: 3px;
 	}
 	.sec12div1 p{
-		font-size: 10px;
+		font-size: 3px;
 	}
 	.sec13div1 a{
-		font-size: 5px;
+		font-size: 3px;
 	}
 }
